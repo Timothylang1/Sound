@@ -1,0 +1,6 @@
+toDo/problem list:
+check page 10. On the chance that their are three half steps inbetween, sometimes notes will blend together
+ties cross over parts
+notes could potentially cross over onto the wrong clef if they go too high or too low in two clefs
+sharps and naturals potential overlap: need to stagger them
+change dotted label if nessecary
